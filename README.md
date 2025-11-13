@@ -33,8 +33,8 @@
 | Project | Description | Demo |
 |---------|-------------|------|
 | [Resume Analyzer](https://github.com/awike/resume-analyzer) | AI-powered resume parser & matcher | [Live](#) |
-| [Chatify](https://github.com/awike/chatify) | Real-time chat app using WebSockets | [Live](#) |
-| [WeatherDash](https://github.com/awike/weatherdash) | React dashboard for weather APIs | [Live](#) |
+| [gRPC API](https://github.com/Driftedbucket/DSA621S-ASSIGNMENT-2) | gRPC project for municipality ticket management | [Live](#) |
+| [JobConnect](https://github.com/WAD621S-2025/Job-Community-Board) | PHP application for namibian job seekers and employers | [Live](#) |
 
 ---
 
