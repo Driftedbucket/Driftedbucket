@@ -49,8 +49,8 @@
 
 ## 📈 Activity / Streaks
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=awike&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awike&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=Driftedbucket&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Driftedbucket&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
 ---
