@@ -55,7 +55,7 @@
 
 ---
 
-## ⚡ Quote of the day
+## ⚡ Word of the day
 > “Lesha omambo” — Awike Gulu
 
 <!--
