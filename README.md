@@ -40,9 +40,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awike&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awike&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=awike&theme=onedark&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Driftedbucket&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Driftedbucket&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Driftedbucket&theme=onedark&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
 ---
