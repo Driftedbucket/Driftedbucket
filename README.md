@@ -53,8 +53,29 @@
 |---------|-------------|------|
 | [Resume Analyzer](https://github.com/awike/resume-analyzer) | AI-powered resume parser & matcher | [Live](#) |
 | [gRPC API](https://github.com/Driftedbucket/DSA621S-ASSIGNMENT-2) | gRPC project for municipality ticket management | [Live](#) |
-| [JobConnect](https://github.com/WAD621S-2025/Job-Community-Board) | PHP application for Namibian job seekers and employers | [Live](#)
+| [JobConnect](https://github.com/WAD621S-2025/Job-Community-Board) | PHP application for Namibian job seekers and employers | [Live](#) |
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Driftedbucket&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Driftedbucket&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Driftedbucket&theme=onedark&margin-w=15&margin-h=15" alt="Trophies"/>
+</p>
+
+---
+
+## 📈 Activity / Streaks
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Driftedbucket&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Driftedbucket&theme=tokyo-night" alt="Activity Graph"/>
+</p>
+
+---
+
+## ⚡ Word of the day
+> “Lesha omambo” — Awike Gulu
 
 <!--
 **Driftedbucket/Driftedbucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
