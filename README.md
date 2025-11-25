@@ -51,7 +51,7 @@
 ## 🌟 Featured Projects
 | Project | Description | Demo |
 |---------|-------------|------|
-| [Resume Analyzer](https://github.com/awike/resume-analyzer) | AI-powered resume parser & matcher | [Live](#) |
+| [Resume Analyzer](https://github.com/Driftedbucket/resume-analyzer) | AI-powered resume parser & matcher | [Live](#) |
 | [gRPC API](https://github.com/Driftedbucket/DSA621S-ASSIGNMENT-2) | gRPC project for municipality ticket management | [Live](#) |
 | [JobConnect](https://github.com/WAD621S-2025/Job-Community-Board) | PHP application for Namibian job seekers and employers | [Live](#) |
 
