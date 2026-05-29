@@ -1,6 +1,12 @@
-<!-- Header / Greeting -->
-<h1 align="center">Hi 👋, I'm Awike Gulu</h1>
-<h3 align="center">A passionate Software Developer from Namibia</h3>
+<!-- Animated Greeting -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Awike+Gulu;Software+Developer+from+Namibia;Building+cool+things+with+code+⚡" 
+    alt="Typing SVG" 
+  />
+</p>
+
+<h3 align="center">A passionate Software Developer from Namibia 🇳🇦</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-link">
@@ -35,6 +41,7 @@
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
 
   <!-- Python Libraries -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -47,7 +54,6 @@
 </p>
 
 ---
-
 
 ## 📊 GitHub Stats
 <p align="center">
