@@ -23,6 +23,18 @@
 ---
 
 ## 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi%2C+I'm+Awike+Gulu;💻+Software+Developer;🐍+Python;☕+Java;🌐+JavaScript;⚛️+React;🚀+FastAPI;🐳+Docker;⚡+Let's+Build+Something+Awesome"
+  />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,fastapi,docker,nodejs,mysql" />
+</p>
+
+
 <p align="center">
   <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
