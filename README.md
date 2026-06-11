@@ -1,24 +1,4 @@
-<!-- Animated Greeting -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Awike+Gulu;Software+Developer+from+Namibia;Building+cool+things+with+code+⚡" 
-    alt="Typing SVG" 
-  />
-</p>
-
-<h3 align="center">A passionate Software Developer from Namibia 🇳🇦</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-link">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95" width="400">
 
 ---
 
