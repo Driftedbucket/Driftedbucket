@@ -1,6 +1,9 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95" width="400">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+<p align=""center>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95" width="400">
+</p
+  
 
 ## 🧰 Tech Stack & Tools
 
@@ -15,7 +18,9 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<p align=""center>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95" width="400">
+</p
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -24,7 +29,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Driftedbucket&theme=onedark&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<p align=""center>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95" width="400">
+</p
 
 ## 📈 Activity / Streaks
 <p align="center">
@@ -32,7 +39,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Driftedbucket&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<p align=""center>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95" width="400">
+</p
 
 ## ⚡ Word of the day
 > “Lesha omambo lela lela choss chess” — Awike Gulu
