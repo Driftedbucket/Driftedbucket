@@ -4,7 +4,7 @@
 </p
   
 
-## 🧰 Tech Stack & Tools
+## 🧰 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
   <img
@@ -21,7 +21,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </p
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Driftedbucket&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Driftedbucket&layout=compact&theme=tokyonight" alt="Top Languages"/>
