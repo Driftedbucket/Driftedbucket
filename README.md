@@ -31,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 📈 Activity / Streaks
+## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b> Stats/Streak </b>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Driftedbucket&theme=tokyonight" alt="GitHub Streak"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Driftedbucket&theme=tokyo-night" alt="Activity Graph"/>
