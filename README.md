@@ -50,7 +50,7 @@
 
 
 ## ⚡ Word of the day
-> “Lesha omambo lela lela choss chess” — Awike Gulu
+> “Lesha omambo lela” — Awike Gulu
 
 <!--
 **Driftedbucket/Driftedbucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
