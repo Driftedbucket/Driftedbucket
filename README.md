@@ -50,7 +50,7 @@
 
 
 ## ⚡ Word of the day
-> “Lesha omambo lela lela” — Awike Gulu
+> “Github commits > Omanona” — Awike Gulu
 
 <!--
 **Driftedbucket/Driftedbucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
