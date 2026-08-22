@@ -50,7 +50,7 @@
 
 
 ## ⚡ Word of the day
-> “nextjs > omanona” — Awike Gulu
+> “claude > omanona” — Awike Gulu
 
 <!--
 **Driftedbucket/Driftedbucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
