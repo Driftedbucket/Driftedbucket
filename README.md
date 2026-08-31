@@ -50,7 +50,7 @@
 
 
 ## ⚡ Word of the day
-> “claude > omanona” — Awike Gulu
+> “the route is a little longer when you out here living honest.” — BabyFaceRay
 
 <!--
 **Driftedbucket/Driftedbucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
