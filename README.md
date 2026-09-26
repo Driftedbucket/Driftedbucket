@@ -50,7 +50,7 @@
 
 
 ## ⚡ Word of the day
-> “the route is a little longer when you out here living honest.” — BabyFaceRay
+> “the route is a little longer when you out here living honest.” -- babyfaceray
 
 <!--
 **Driftedbucket/Driftedbucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
